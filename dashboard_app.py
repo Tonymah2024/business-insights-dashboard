@@ -32,7 +32,7 @@ def load_data():
 data = load_data()
 
 # App Title
-st.title("Business-Focused Dashboard for Grant Application")
+st.title("Business-Focused Dashboard Prototype")
 
 # Business Usefulness Context
 st.markdown(
